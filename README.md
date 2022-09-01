@@ -1,2 +1,2 @@
 # python3-socket
-socket in python3
+simple socket chat in console using python 3
